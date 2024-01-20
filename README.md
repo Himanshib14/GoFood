@@ -24,7 +24,6 @@ GoFood is a food delivery web application built using the MERN (MongoDB, Express
 - Cart for reviewing and deleting items, and checkout functionality
 - Order history displayed in "My Orders" section
 - Past orders history for reference
-- ...
 
 ## Technologies Used
 
@@ -33,7 +32,6 @@ GoFood is a food delivery web application built using the MERN (MongoDB, Express
 - React.js
 - Node.js
 - JWT (JSON Web Tokens) for authentication
-- ...
 
 ## Getting Started
 
