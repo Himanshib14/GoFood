@@ -1,5 +1,4 @@
 # GoFood - MERN Stack Food Delivery App
-GoFood is your go-to solution for a delightful and hassle-free food ordering experience. Built on the powerful MERN (MongoDB, Express.js, React.js, Node.js) stack, GoFood brings together a seamless user interface and robust functionality.
 
 ## Table of Contents
 
@@ -92,4 +91,4 @@ This will start the application on a local development server, and you can acces
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/Himanshib14/Tenzies). Your feedback and contributions are highly appreciated.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/Himanshib14/GoFood). Your feedback and contributions are highly appreciated.
