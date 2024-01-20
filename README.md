@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+# GoFood - MERN Stack Food Delivery App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
 
-## Available Scripts
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Contributing](#contributing)
 
-In the project directory, you can run:
+## Introduction
 
-### `npm start`
+GoFood is a food delivery web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides users with a seamless experience to browse a menu, place orders, and manage their orders efficiently.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- User authentication (Sign up, Log in)
+- Navbar for easy navigation
+- Search functionality to find specific food items
+- Food cards with options to select quantity and customize orders
+- Add to Cart feature with the ability to modify items
+- Cart for reviewing and deleting items, and checkout functionality
+- Order history displayed in "My Orders" section
+- Past orders history for reference
+- ...
 
-### `npm test`
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- JWT (JSON Web Tokens) for authentication
+- ...
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Make sure you have the following installed:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Node.js: [Download Node.js](https://nodejs.org/)
+- MongoDB: [Download MongoDB](https://www.mongodb.com/try/download/community)
 
-### `npm run eject`
+### Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To run the GoFood application locally, follow these steps:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clone the repository to your local machine:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```bash
+   git clone https://github.com/Himanshib14/GoFood.git
+   ```
 
-## Learn More
+2. Navigate to the project directory:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```bash
+   cd GoFood
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3. Install the required dependencies using npm or yarn:
 
-### Code Splitting
+   ```bash
+   npm install
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+   or
+   
+   ```bash
+   yarn install
+   ```
 
-### Analyzing the Bundle Size
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Once you have installed the dependencies, you can start the development server:
 
-### Making a Progressive Web App
+```bash
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+or
 
-### Advanced Configuration
+```bash
+yarn start
+```
+This will start the application on a local development server, and you can access it by visiting `http://localhost:3000` in your web browser.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contributing
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/Himanshib14/Tenzies). Your feedback and contributions are highly appreciated.
